@@ -1,0 +1,2 @@
+# kernel_task_test
+使用Linux内核current宏定义打印系统所有task相关信息
